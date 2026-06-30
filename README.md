@@ -55,10 +55,10 @@
 
 <div align="center">
   <a href="https://github.com/vaishnavibs05-svg">
-    <img src="https://github-readme-stats.vercel.app/api?username=vaishnavibs05-svg&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0D1117" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=vaishnavibs05-svg&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0D1117" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/vaishnavibs05-svg">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavibs05-svg&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vaishnavibs05-svg&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0D1117" alt="Top Languages" />
   </a>
 </div>
 
@@ -74,9 +74,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
