@@ -54,11 +54,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/vaishnavibs05-svg">
-    <img src="https://github-stats-extended.vercel.app/api?username=vaishnavibs05-svg&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0D1117" alt="GitHub Stats" />
+  <a href="https://github.com/Vaishnavi-Salian">
+    <img src="https://github-stats-extended.vercel.app/api?username=Vaishnavi-Salian&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0D1117" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/vaishnavibs05-svg">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vaishnavibs05-svg&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0D1117" alt="Top Languages" />
+  <a href="https://github.com/Vaishnavi-Salian">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vaishnavi-Salian&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0D1117" alt="Top Languages" />
   </a>
 </div>
 
